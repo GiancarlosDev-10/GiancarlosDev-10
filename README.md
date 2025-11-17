@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines="La+suerte+es+la+suma;+de+la+preparación+y+la+oportunidad...";Bienvenidos+a+mi+espacio+digital!!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=%22La+suerte+es+la+suma;+de+la+preparación+y+la+oportunidad...%22;Bienvenidos+a+mi+espacio+digital!!" />
   </a>
 </p>
 
