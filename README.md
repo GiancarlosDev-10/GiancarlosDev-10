@@ -8,7 +8,7 @@
 
 ---
 
-**Sobre mí**
+## **Sobre mí**
 
 - 🪖 Militar de la Fuerza Aérea del Perú.
 - 🧑‍💻 Estudiante de 4to Ciclo de la carrera de Desarrollo de Sistemas de Información.
