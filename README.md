@@ -11,7 +11,7 @@
 ## **Sobre mí**
 
 - 🪖 Militar de la Fuerza Aérea del Perú.
-- 🧑‍💻 Estudiante de 4to Ciclo de la carrera de Desarrollo de Sistemas de Información.
+- 🧑‍💻 Estudiante de 5to Ciclo de la carrera de Desarrollo de Sistemas de Información.
 - 🚀 Conocimientos de Front-end, Back-end y automatizaciones con N8N.
 - 📚 Ser autodidacta como estilo de vida.
 - 💬 Si tienes una idea, colaboración o consejo, ¡contáctame!
